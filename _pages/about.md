@@ -17,11 +17,11 @@ My primary research interests lie in vision-language and dialogue system. I am p
 
 
 # 💻 Internships
-**AI Lab AI, ByteDance Inc (Beijing)**. *As Research Intern. 2021.1 - Present
+**AI Lab AI, ByteDance Inc (Beijing)**. *As Research Intern. 2022.1 - Present
 - Advised by [Tao Kong](https://www.taokong.org/).
 - Research on vision-language pre-training and reference expression.
 
-**WeChat AI, Tencent Inc (Beijing)**. *As Research Intern. 2020.10 - 2021.1
+**WeChat AI, Tencent Inc (Beijing)**. *As Research Intern. 2020.10 - 2022.1
 - Advised by [Fandong Meng](http://fandongmeng.github.io/).
 - Research on visual dialogue and cross-lingual summarization.
 
