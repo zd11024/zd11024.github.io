@@ -45,6 +45,9 @@ In **BMVC 2021**
 
 
 ### 📚 Text Summarization
+- [A Survey on Cross-Lingual Summarization](https://arxiv.org/abs/2203.12515)   
+Jiaan Wang, Fandong Meng<sup>*</sup>, **<u>Duo Zheng</u>**, Yunlong Liang, Zhixu Li<sup>*</sup>, Jianfeng Qu and Jie Zhou   
+**arXiv preprint 2022**    
 - [ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization](https://arxiv.org/abs/2202.05599) \| [[Data&Code](https://github.com/krystalan/ClidSum)] \| [[Models](https://huggingface.co/Krystalan)]  
 Jiaan Wang, Fandong Meng<sup>*</sup>, Ziyao Lu, **<u>Duo Zheng</u>**, Zhixu Li, Jianfeng Qu and Jie Zhou   
 **arXiv preprint 2022** 
