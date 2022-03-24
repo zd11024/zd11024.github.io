@@ -17,7 +17,7 @@ My primary research interests lie in vision-language and dialogue system. I am p
 
 
 # 💻 Internships
-**WeChat AI, Tencent Inc (Beijing)**. *As Research Intern. 2021.1 - Present
+**AI Lab AI, ByteDance Inc (Beijing)**. *As Research Intern. 2021.1 - Present
 - Advised by [Tao Kong](https://www.taokong.org/).
 - Research on vision-language pre-training and reference expression.
 
@@ -25,19 +25,21 @@ My primary research interests lie in vision-language and dialogue system. I am p
 - Advised by [Fandong Meng](http://fandongmeng.github.io/).
 - Research on visual dialogue and cross-lingual summarization.
 
+**Product RD and Infrastructure, ByteDance Inc (Beijing)**. *As Engineering Intern. 2020.3 - 2020.7
+- Development on encyclopedia document deduplication
 
 # 📝 Publications 
 *: Corresponding Author(s)   
 Please feel free to drop me an email for any suggestions.
 
 ### 🏞️ Visual Dialogue
-- [Spot the Difference: A Cooperative Object-Referring Game in Non-Perfectly Co-Observable Scene](https://arxiv.org/abs/2203.08362)
+- [Spot the Difference: A Cooperative Object-Referring Game in Non-Perfectly Co-Observable Scene](https://arxiv.org/abs/2203.08362)    
 **<u>Duo Zheng</u>**, Fandong Meng, Qingyi Si, Hairun Fan, Zipeng Xu, Jie Zhou, Fangxiang Feng, Xiaojie Wang<sup>*</sup>
 arXiv preprint 2022
 - [Enhancing Visual Dialog Questioner with Entity-based Strategy Learning and Augmented Guesser](https://arxiv.org/abs/2109.02297) \| [[Code](https://github.com/zd11024/Entity_Questioner)]    
 **<u>Duo Zheng</u>**, Zipeng Xu, Fandong Meng, Xiaojie Wang<sup>*</sup>, Jiaan Wang and Jie Zhou    
 In Proc. of **EMNLP 2021 Findings** (long)
--[Modeling Explicit Concerning States for Reinforcement Learning in Visual Dialogue](https://arxiv.org/abs/2107.05250)
+-[Modeling Explicit Concerning States for Reinforcement Learning in Visual Dialogue](https://arxiv.org/abs/2107.05250)    
 Zipeng Xu, Fandong Meng, Xiaojie Wang<sup>*</sup>, **<u>Duo Zheng</u>**, Chenxu Lv, Jie Zhou
 In BMVC 2021
 
