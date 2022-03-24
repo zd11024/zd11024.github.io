@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Jiaan Wang (王佳安)"
+title                    : "Duo Zheng (郑铎)"
 title_separator          : "-"
-name                     : "Jiaan Wang (王佳安)"
-description              : "NLP Master's student at Soochow University."
-repository               : "krystalan/krystalan.github.io"
+name                     : "Duo Zheng (郑铎)"
+description              : "Multi-modal Master's student at BUPT."
+repository               : "zd11024/zd11024.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,14 +24,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jiaan Wang"
+  name             : "Duo Zheng"
   avatar           : "images/me.jpeg"
-  bio              : "Soochow University"
+  bio              : "Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jawang1@stu.suda.edu.cn"
+  email            : "zd@bupt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -40,13 +40,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krystalan"
+  github           : "zd11024"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "%E4%BD%B3%E5%AE%89-%E7%8E%8B-1662341a4"
+  linkedin         : 
   dblp             : 
   orcid            : 
   pinterest        :
@@ -54,7 +54,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jiaanwang98"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
