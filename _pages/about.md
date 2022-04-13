@@ -17,7 +17,7 @@ My primary research interests lie in vision-language and dialogue system. I am p
 
 
 # 💻 Internships
-**AI Lab AI, ByteDance Inc (Beijing)**. As Research Intern. 2022.1 - Present
+**AI Lab, ByteDance Inc (Beijing)**. As Research Intern. 2022.1 - Present
 - Advised by Dr. [Tao Kong](https://www.taokong.org/).
 - Research on vision-language pre-training and reference expression.
 
@@ -45,7 +45,7 @@ In **BMVC 2021**.
 
 ### 📖Visual Question Answering
 - A Region-based Docuemnt VQA   
-inya Wu, **<u>Duo Zheng</u>**, Ruonan Wang, Jiashen Sun, Minzhen Hu, Fangxiang Feng, Xiaojie Wang, Huixing Jiang, Fan Yang  
+Xinya Wu, **<u>Duo Zheng</u>**, Ruonan Wang, Jiashen Sun, Minzhen Hu, Fangxiang Feng, Xiaojie Wang, Huixing Jiang, Fan Yang  
 Submitted to ACM Multimedia.  
 
 
