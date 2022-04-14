@@ -66,7 +66,7 @@ In Proc. of **WSDM 2022** (long).
 - Gold medal (Top 10%, 22/240). The 5th China Collegiate Programming Contest (Qinhuangdao). 2019.
 - Gold medal (Top 1%, 3/302). The 2019 ICPC China Nanchang National Invitational Programming Contest.
 - Silver medal (Top 30%). The 2018 ICPC Asia-East Continent Final. 2018.
-- Provincial First Prize at Chinese Mathematics Olympiad (Rank: 29<sup>nd</sup> in Shaanxi province). 2015.
+- The First‑grade Award (29nd in Shaanxi province), Chinese High School Mathematics League. 2015.
 
 
 
