@@ -11,30 +11,37 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello! I'm Duo Zheng (郑铎).      
-I am a second-year master student at the Beijing University of Posts and Telecommunications (2020-2023). I am fortunate to be advised by [Prof. Xiaojie Wang](https://www.researchgate.net/profile/Xiaojie-Wang-19). I previously interned at ByteDance and [WeChat AI](https://ai.weixin.qq.com/) (2021-2022, Research Intern). I also received B.Eng. from Beijing University of Posts and Telecommunications (2016-2020).
+I am a first-year Ph.D. candidate at LaVi Lab, The Chinese University of Hong Kong (2023-2027). I am fortunate to be advised by [Prof. Liwei Wang](https://lwwangcse.github.io/). I also received B.Eng. and M.S from Beijing University of Posts and Telecommunications (2016-2023).
 
-My primary research interests lie in vision-language and dialogue system. I am particularly interested in vision-language pre-training and other downstream tasks (e.g., reference expression, visual dialogue and VQA).
+My primary research interests lie in vision-language and embodied AI.
 
 
 # Internships
-**NLP, SenseTime Inc (Beijing)**. As Research Intern. 2022.7 - Present
+**Shanghai AI Laboratory**. As a Research Intern. 2023.10 - Present
+- Research on Embodied AI and Large Language Models.
+
+**NLP Group, SenseTime Inc (Beijing)**. As a Research Intern. 2022.7 - 2023.9
 <!-- - Advised by Prof. [Liwei Wang](https://lwwangcse.github.io/). -->
 - Research on vision-language pre-training.
 
-**AI Lab, ByteDance Inc (Beijing)**. As Research Intern. 2022.1 - 2022.6
+**AI Lab, ByteDance Inc (Beijing)**. As a Research Intern. 2022.1 - 2022.6
 - Advised by Dr. [Tao Kong](https://www.taokong.org/).
 - Research on vision-language pre-training and reference expression.
 
-**WeChat AI, Tencent Inc (Beijing)**. As Research Intern. 2020.10 - 2022.1
+**WeChat AI, Tencent Inc (Beijing)**. As a Research Intern. 2020.10 - 2022.1
 - Advised by Dr. [Fandong Meng](http://fandongmeng.github.io/).
 - Research on visual dialogue and cross-lingual summarization.
 
-**Product RD and Infrastructure, ByteDance Inc (Beijing)**. As Engineering Intern. 2020.3 - 2020.7
+**Product RD and Infrastructure, ByteDance Inc (Beijing)**. As an Engineering Intern. 2020.3 - 2020.7
 - Development on encyclopedia document deduplication
 
 # Publications 
 *: Corresponding Author(s)   
-Please feel free to drop me an email for any suggestions.
+Please feel free to drop me an email for any questions.
+## 2023
+- [CLEVA: Chinese Language Models EVAluation Platform](https://arxiv.org/abs/2308.04813) \| [[Code](https://github.com/Lavi-Lab/CLEVA)] 
+Yanyang Li, Jianqiao Zhao, **<u>Duo Zheng**</u>, Zi-Yuan Hu, Zhi Chen, Xiaohui Su, Yongfeng Huang, Shijia Huang, Dahua Lin, Michael R. Lyu, Liwei Wang<sup>*</sup>
+Accepted by EMNLP 2022 System Demonstration
 ## 2022
 - [Towards Unifying Reference Expression Generation and Comprehension](https://arxiv.org/abs/2210.13076) \| [[Code](https://github.com/zd11024/UniRef)]    
 **Duo Zheng**, Tao Kong, Ya Jing, Jiaan Wang and Xiaojie Wang<sup>*</sup>   
@@ -65,10 +72,11 @@ In **BMVC 2021**
 
 
 # 🎖 Honors and Awards
+- [*2023-Present*] Postgraduate Studentship. The Chinese University of Hong Kong.
 - [*2022*] China National Scholarship. 2022.
 - [*2020*] CCF Elite Collegiate Student Award (98 students won this award across China that year). China Computer Federation.
 - [*2019*] Gold medal (Top 10%, 22/240). The 5th China Collegiate Programming Contest (Qinhuangdao).
 - [*2019*] Gold medal (Top 1%, 3/302). The 2019 ICPC China Nanchang National Invitational Programming Contest.
 - [*2018*] Silver medal (Top 30%). The 2018 ICPC Asia-East Continent Final.
-- [*2015*] The First‑grade Award (29nd in Shaanxi province), Chinese High School Mathematics League.
+- [*2015*] The First‑grade Award (29th in Shaanxi province), Chinese High School Mathematics League.
 
