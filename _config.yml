@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Duo Zheng (郑铎)"
 title_separator          : "-"
 name                     : "Duo Zheng (郑铎)"
-description              : "Master's student at BUPT."
+description              : "Ph.D. Candidate at CUHK."
 repository               : "zd11024/zd11024.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,12 +26,12 @@ baidu_site_verification  :
 author:
   name             : "Duo Zheng"
   avatar           : "images/me.jpg"
-  bio              : "Beijing University of Posts and Telecommunications"
-  location         : "Beijing, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HMSnVjUAAAAJ"
-  email            : "zd@bupt.edu.cn"
+  email            : "dzheng23@link.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
