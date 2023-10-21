@@ -39,7 +39,7 @@ My primary research interests lie in vision-language and embodied AI.
 *: Corresponding Author(s)   
 Please feel free to drop me an email for any questions.
 ## 2023
-- [CLEVA: Chinese Language Models EVAluation Platform](https://arxiv.org/abs/2308.04813) \| [[Code](https://github.com/Lavi-Lab/CLEVA)] 
+- [CLEVA: Chinese Language Models EVAluation Platform](https://arxiv.org/abs/2308.04813) \| [[Code](https://github.com/Lavi-Lab/CLEVA)]   
 Yanyang Li, Jianqiao Zhao, **<u>Duo Zheng**</u>, Zi-Yuan Hu, Zhi Chen, Xiaohui Su, Yongfeng Huang, Shijia Huang, Dahua Lin, Michael R. Lyu, Liwei Wang<sup>*</sup>
 Accepted by EMNLP 2022 System Demonstration
 ## 2022
